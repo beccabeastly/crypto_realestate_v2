@@ -166,7 +166,7 @@ Lastly, the User is able to select the a property by ID. Prices for cryptocurren
 {
   "name": "Rebecca Brown",
   "email": "beccabeastly@gmail.com",
-  "linkedin": "<>"
+  "linkedin": "<https://www.linkedin.com/in/rebecca-brown-4637681a9/>"
 },
 {
   "name": "Jing J Pu",
